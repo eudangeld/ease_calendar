@@ -42,10 +42,6 @@ class _HomeContainerState extends State<HomeContainer> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Padding(
-                padding: const EdgeInsets.only(bottom: 30),
-                child: SvgPicture.asset('vectors/brand_logo.svg', width: 250),
-              ),
               Expanded(
                 child: Container(
                   clipBehavior: Clip.antiAliasWithSaveLayer,

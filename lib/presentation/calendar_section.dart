@@ -78,14 +78,6 @@ class CalendarSection extends StatelessWidget {
                     ),
                   ),
                 ),
-                Padding(
-                  padding: const EdgeInsets.only(bottom: 50),
-                  child: Text('© 2022 Codelitt Inc All rights reserved',
-                      style: GoogleFonts.inter(
-                          fontWeight: FontWeight.w400,
-                          fontSize: 12,
-                          color: Colors.white)),
-                )
               ],
             ),
           );
