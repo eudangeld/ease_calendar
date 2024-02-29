@@ -2,15 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../calendar/calendar_utils.dart';
 import '../core/util.dart';
 import 'bloc/index.dart';
 import 'widgets/index.dart';
 
 class CalendarSection extends StatelessWidget {
   CalendarSection({super.key});
-
-  final CalendarUtils monthUtil = CalendarUtils();
 
   @override
   Widget build(BuildContext context) {
