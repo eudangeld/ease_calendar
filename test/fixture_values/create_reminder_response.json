@@ -1,0 +1,15 @@
+{
+    "title": "Title Example",
+    "description": "Description example",
+    "date": "2022-11-03T15:14:21.005Z",
+    "color": "#FFFFFF",
+    "token": {
+        "id": "21681ba4-7556-4358-9500-e4afe1ce6141",
+        "name": "John Doe",
+        "createdAt": "2022-11-02T15:12:13.242Z",
+        "updatedAt": "2022-11-02T15:12:13.242Z"
+    },
+    "id": "0493ad93-1290-41ea-818e-c7a371c828df",
+    "createdAt": "2022-11-03T15:14:36.265Z",
+    "updatedAt": "2022-11-03T15:14:36.265Z"
+}

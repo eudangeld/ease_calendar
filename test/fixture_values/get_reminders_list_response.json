@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0493ad93-1290-41ea-818e-c7a371c828df",
+        "title": "First reminder",
+        "description": "First description example",
+        "date": "2022-11-03T15:14:21.005Z",
+        "color": "#11FFFF",
+        "createdAt": "2022-11-03T15:14:36.265Z",
+        "updatedAt": "2022-11-03T15:14:36.265Z"
+    },
+    {
+        "id": "f2c1f472-0743-450c-a928-71810066d7ba",
+        "title": "Secound reminder",
+        "description": "Secound description example",
+        "date": "2022-11-03T15:17:13.222Z",
+        "color": "#22FFFF",
+        "createdAt": "2022-11-03T15:17:38.778Z",
+        "updatedAt": "2022-11-03T15:17:38.778Z"
+    }
+]
